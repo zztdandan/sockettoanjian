@@ -1,0 +1,11 @@
+{
+  "name": "mqtt_collection",
+  "version": "1.0.0",
+  "description": "use mqtt to collect data and save them to a redis",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "zztdan",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "socket_to_anjian"
+		},
+		{
+			"path": "mqtt_collection"
+		}
+	],
+	"settings": {}
+}

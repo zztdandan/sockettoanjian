@@ -1,0 +1,5 @@
+Doc/
+socket_to_anjian/node_modules
+myapp/node_modules
+app_receive/node_modules
+mqtt_collection/node_modules
